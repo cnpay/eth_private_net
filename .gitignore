@@ -1,0 +1,4 @@
+datadir/history
+datadir/password
+datadir/geth/*
+*.log
